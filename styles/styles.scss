@@ -1,3 +1,8 @@
+@import "variables";
 .name {
-    font-size: 22px;
+    font-size: $fontSize;
+}
+
+.drug{
+  color: $primaryColorLight;
 }
